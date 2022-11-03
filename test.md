@@ -6,3 +6,4 @@ Cornwall is not an independent country. Yet.
 
 Examples of mountains:
 - Ben Nevis
+- Snowdon
